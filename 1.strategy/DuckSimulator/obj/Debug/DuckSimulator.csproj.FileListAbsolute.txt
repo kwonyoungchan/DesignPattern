@@ -1,0 +1,8 @@
+C:\Users\KWON\source\repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.exe.config
+C:\Users\KWON\source\repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.exe
+C:\Users\KWON\source\repos\DuckSimulator\DuckSimulator\bin\Debug\DuckSimulator.pdb
+C:\Users\KWON\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csproj.AssemblyReference.cache
+C:\Users\KWON\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\KWON\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.csproj.CoreCompileInputs.cache
+C:\Users\KWON\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.exe
+C:\Users\KWON\source\repos\DuckSimulator\DuckSimulator\obj\Debug\DuckSimulator.pdb
